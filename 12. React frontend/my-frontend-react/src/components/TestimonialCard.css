@@ -1,0 +1,183 @@
+/* first box */
+.first_wrapper{
+    margin-left: 2rem;
+    margin-right: 3rem;
+}
+.i_have_solving{
+    background-color: #252525;
+    color: hsl(0, 0%, 100%);
+    width: 103%;
+    height: 16.5rem;
+    margin: 2rem auto 2rem 2rem;  
+    padding: 2rem 2rem; 
+    border-radius: 40px;
+    font-size: 2rem;
+    font-weight: 400;
+}
+.thinking{
+    position: absolute;
+    top: 325px;
+    left: 106px;
+    width: 30px; 
+    background-color: #252525;
+    height: 30px;
+    margin-left: 12px;
+    rotate: 45deg;
+}
+.first_profile{
+    width: 130px;
+    height: 130px; 
+    margin-left: 1rem; 
+    border-radius: 40rem;
+    margin-top:1px;
+}
+.first_profile_wrapper{
+    display: flex;
+    flex-direction: row;
+    font-size: 1.45rem;
+    align-items: center;
+    margin-left: 1.4rem;
+}
+.name_skill > P{
+    font-weight: 500;
+    font-size: 1.6rem;
+}
+.name_skill > h2{   
+    margin-bottom: -20px;
+    font-weight: 500;
+}
+.name_skill{
+    margin-left: 1rem; 
+    margin-top: -1rem;
+}
+/*  */
+/* second box */
+.second_wrapper{
+    margin-left: 4rem;
+}
+.since_starting{
+    background-color: #fff;
+    color: #000;
+    border: 3px black solid;
+    margin: 2rem auto;
+    width: 70%;
+    padding: 2rem 4rem 1.2rem 2rem; 
+    border-radius: 30px;
+    font-size: 2.2rem;
+    font-weight: 4x00;
+}
+.second_profile{
+ width: 130px;
+ height: 130px;
+ border-radius: 30rem; 
+}
+.image_skill_wrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 1.3rem;
+    padding-bottom: 1.2rem;
+}
+.second_name_skill > h2{
+    font-weight: 500;
+    font-size: 2.2rem;
+    margin-bottom: -15px;
+    margin-top: -1px;
+}
+.second_name_skill > p{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.second_name_skill{
+    margin-left: 1rem;
+}
+.image_skill_wrapper{
+    margin-top: 2rem;
+}
+.inline_wrapper{
+    display: flex;
+    flex-direction: row;
+}
+.fourth_text_wrapper{
+    background-color: #000;
+    width: 82%;
+    height: 74%;
+    border-radius: 2.5rem;
+    padding: 3.5rem 3.5rem 2.5rem 3.5rem;
+    margin-top: 1.3rem;
+}
+/*  */
+/* Third Box */
+.girl_pic{
+    border-radius: 2.5rem;
+    width: 33%;
+    height: 33%;
+    margin: 2rem 0.5rem 2rem 4rem;   
+}
+/*  */
+/* Fourth box */
+.fourth_box_wrapper{
+    scale: 0.96;
+}
+.second_line_wrapper{
+    display: flex;  
+    margin-top: -20px;
+}
+.star{
+    color: rgb(255, 196, 48);
+    font-size: 2.5rem;
+    margin-left: -0.3rem;
+}
+.jakie_mackle{
+    margin-top: 20px;
+    color: #fff;
+    font-size: 3.8rem;
+}
+.engineering_manager{
+    margin-top: -47px;
+    color: grey;
+    font-size: 2rem;
+}
+.i_find_myself{
+    color: white;
+    font-size: 2rem;
+    font-weight: 500;
+}
+/* fifth box */
+.last_wrapper{
+    width: 91%;
+    border: solid black 3px;
+    border-radius: 3rem;
+    margin: 2rem auto;
+}
+.roadmap_is_an{
+    text-align: center;
+    padding: 2.6rem 7rem 0 7rem; 
+    color: rgb(16, 16, 16); 
+    font-size: 2rem;
+    font-weight: 500;
+}
+.last_profile{
+    width: 7rem; 
+    height: 7rem;
+    border-radius: 30rem;
+}
+.last_image_wrapper{
+    margin-top: 4rem;
+}
+.last_image_wrapper, .the_last_name{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.last_profile.one,.three{
+    opacity: 0.5;
+    margin: 0 0.9rem;
+    scale: 0.8;
+}
+.the_last_name{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+/*  */

@@ -1,0 +1,31 @@
+.place_holder {
+  border-style: none;
+  font-size: 2rem;
+  text-indent: 0;
+  width: 4rem;
+}
+.place_holder.two {
+  width: 3.3rem;
+}
+.place_holder.one {
+  width: 2.2rem;
+}
+.place_holder:focus {
+  outline: none;
+  border: none;
+}
+.place_holder::placeholder {
+  text-indent: 0;
+}
+.place_holder_wrapper {
+  display: flex;
+  flex-direction: row;
+  font-size: 3rem;  
+  justify-content: center;
+  border: 2px black solid;
+  gap: 0;
+  width: 20%;
+  padding: 1rem auto;
+  margin: 2rem auto;
+}
+
